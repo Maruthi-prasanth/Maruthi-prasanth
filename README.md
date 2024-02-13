@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif​">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKxFl-F_n3X4nEt_EK6OiYXw4vF94VSQmbRHFqre2CfcsmjTvasGFArdS3Eyt3X06368g&usqp=CAU​">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruthi-prasanth&label=Profile%20views&color=0e75b6&style=flat" alt="maruthi-prasanth" /> </p>
 
